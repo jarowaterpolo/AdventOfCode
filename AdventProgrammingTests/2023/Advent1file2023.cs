@@ -36,19 +36,19 @@ internal class Advent1file2023
         //    //int[] vals = words.Select(int.Parse).ToArray(); // Linq
         //}
 
-        totalSum = 0;
+        //totalSum = 0;
 
         //TestGetFirstAndLastDigit();
         //GetFirstAndLastDigit();
-        ReplaceTextToDigits();
+        //ReplaceTextToDigits();
 
-        foreach (int n in numbers)
-        {
-            Console.WriteLine($"{n}");
-            totalSum += n;
-        }
+        //foreach (int n in numbers)
+        //{
+        //    Console.WriteLine($"{n}");
+        //    totalSum += n;
+        //}
 
-        Console.WriteLine(totalSum);
+        //Console.WriteLine(totalSum);
 
 
         //Part 1

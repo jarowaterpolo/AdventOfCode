@@ -20,6 +20,7 @@ class AdventChallengesStarter
         new AdventChallenges2021().Start();
         new AdventChallenges2022().Start();
         */new AdventChallenges2023().Start();
+        new AdventChallenges2024().Start();
 
         //ForFun();
     }
